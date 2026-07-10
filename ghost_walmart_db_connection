@@ -1,0 +1,2 @@
+ID: gcy52lpuzo
+Connection: postgresql://tsdbadmin:hijaf9ekh4i6fpqq@gcy52lpuzo.e1twj7wgcc.db.ghost.build:5432/tsdb?sslmode=require
