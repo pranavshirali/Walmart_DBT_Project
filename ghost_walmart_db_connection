@@ -1,9 +1,0 @@
-Parent Connection:
-Name: walmart_db
-ID: gcy52lpuzo
-Connection: postgresql://tsdbadmin:hijaf9ekh4i6fpqq@gcy52lpuzo.e1twj7wgcc.db.ghost.build:5432/tsdb?sslmode=require
-
-Fork Connection:
-Name: walmart_db_fork 
-ID: k0s3afgqck
-Connection: postgresql://tsdbadmin:rvob9e8ic7kcqdgn@k0s3afgqck.e1twj7wgcc.db.ghost.build:5432/tsdb?sslmode=require
