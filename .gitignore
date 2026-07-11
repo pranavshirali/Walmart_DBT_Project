@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+ghost_walmart_db_connection
+.env
