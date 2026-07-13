@@ -1,1 +1,1 @@
-![image alt]()
+![image alt](https://github.com/pranavshirali/Walmart_DBT_Project/blob/6b83a9069a793d3eef18a3430156e0e93e038612/walmart_dataset/images/Architecture%20Diagram.png)
