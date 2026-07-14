@@ -1,0 +1,11 @@
+OmniScale_Retail_Lakehouse:
+  outputs:
+    dev:
+      catalog:  #{{ Databricks catalog name }}
+      host:  #{{ Databricks workspace URL }}
+      http_path:  #{{ Databricks http path }}
+      schema:  #{{ Databricks schema name }}
+      threads: 4
+      token:  #{{ Paste databricks token }}
+      type: databricks
+  target: dev
