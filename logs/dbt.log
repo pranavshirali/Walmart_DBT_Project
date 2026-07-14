@@ -1,0 +1,32 @@
+[0m15:26:13.196517 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000154CFB24890>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000154CFAF02F0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000154CC96F500>]}
+
+
+============================== 15:26:13.216418 | ebfa8ac9-07ad-466d-a49b-9d99d792c806 ==============================
+[0m15:26:13.216418 [info ] [MainThread]: Running with dbt=1.11.12
+[0m15:26:13.216418 [debug] [MainThread]: running dbt with arguments {'version_check': 'True', 'no_print': 'None', 'static_parser': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'printer_width': '80', 'write_json': 'True', 'empty': 'None', 'log_cache_events': 'False', 'introspect': 'True', 'cache_selected_only': 'False', 'fail_fast': 'False', 'debug': 'False', 'log_format': 'default', 'profiles_dir': 'C:\\Users\\pranav.shirali\\.dbt', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'partial_parse': 'True', 'indirect_selection': 'eager', 'invocation_command': 'dbt init', 'use_colors': 'True', 'use_experimental_parser': 'False', 'log_path': 'logs'}
+[0m15:27:06.873136 [debug] [MainThread]: Starter project path: C:\Users\pranav.shirali\OneDrive - Altimetrik Corp\Projects\Walmart_DBT_Project\.venv\Lib\site-packages\dbt\include\starter_project
+[0m15:27:07.934288 [info ] [MainThread]: 
+Your new dbt project "OmniScale_Retail_Lakehouse" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m15:27:07.936314 [info ] [MainThread]: Setting up your profile.
+[0m15:27:15.898654 [debug] [MainThread]: Spark adapter: Setting pyhive.hive logging to ERROR
+[0m15:27:15.898654 [debug] [MainThread]: Spark adapter: Setting thrift.transport logging to ERROR
+[0m15:27:15.898654 [debug] [MainThread]: Spark adapter: Setting thrift.protocol logging to ERROR
+[0m15:32:18.408518 [info ] [MainThread]: Profile OmniScale_Retail_Lakehouse written to C:\Users\pranav.shirali\.dbt\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m15:32:18.412575 [debug] [MainThread]: Command `dbt init` succeeded at 15:32:18.412575 after 365.61 seconds
+[0m15:32:18.414606 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000154CC0578C0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000154C9632750>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000154EA5E9610>]}
+[0m15:32:18.414606 [debug] [MainThread]: Flushing usage events
+[0m15:32:20.560405 [debug] [MainThread]: An error was encountered while trying to flush usage events

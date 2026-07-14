@@ -11,3 +11,5 @@ wheels/
 
 ghost_walmart_db_connection
 .env
+
+profiles.yml
