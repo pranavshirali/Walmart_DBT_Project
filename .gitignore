@@ -13,3 +13,6 @@ ghost_walmart_db_connection
 .env
 
 profiles.yml
+
+OmniScale_Retail_Lakehouse/logs
+logs/
