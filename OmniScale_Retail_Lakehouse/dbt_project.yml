@@ -40,6 +40,6 @@ models:
       +schema: silver_b
     gold:
       +materialized: table
-      +schema: silver_b
+      +schema: gold
       epheral:
         +materialized: ephemeral
